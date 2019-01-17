@@ -2,6 +2,7 @@
 Looking at [Rachel Andrew's](https://github.com/rachelandrew) layout examples on [gridbyexample.com](https://gridbyexample.com/), I recreated [layout8](https://gridbyexample.com/examples/code/layout8.html) in order to practice grid.
 
 I'm including my steps for anyone who is intrested in my workflow. I perdonally like seeing exactly what people are doing when they practice coding.
+
 **My Steps**
 1. I copied the [layout8](https://gridbyexample.com/examples/code/layout8.html) page and images manually but it's probably available on the git repo linked below. 
 2. Deleted the internal css except for lines 8-18 which set up the page to work well as a responsive layout. These lines are generally included in most responsive layout projects. Though, I am not familiar with the line that sets the font percentage, it looks like it's setting the font to be responsive too.
