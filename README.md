@@ -1,7 +1,7 @@
 # grid_by_example_layout8_copycat
 Looking at [Rachel Andrew's](https://github.com/rachelandrew) layout examples on [gridbyexample.com](https://gridbyexample.com/), I recreated [layout8](https://gridbyexample.com/examples/code/layout8.html) in order to practice grid.
 
-I like seeing exactly what people are doing when they practice coding, so I'm providing my steps for anyone else who feels the same way as me.
+For anyone who is interested in my workflow, here are my steps:
 
 **My Steps**
 1. I copied the [layout8](https://gridbyexample.com/examples/code/layout8.html) page and images manually but it's probably available on the git repo linked below. 
