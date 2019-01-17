@@ -1,5 +1,5 @@
 # grid_by_example_layout8_copycat
-Looking at [Rachel Andrew's](https://github.com/rachelandrew) layout examples on [gridbyexample.com](https://gridbyexample.com/), I recreated [layout8](https://gridbyexample.com/examples/code/layout8.html) in order to practice grid.
+Looking at [Rachel Andrew's](https://github.com/rachelandrew) layout examples on [gridbyexample.com](https://gridbyexample.com/), I recreated [layout8](https://gridbyexample.com/examples/code/layout8.html) in order to practice css grid.
 
 Copying is a great way to learn techniques, test your knowledge, and get more practice. This project helped me practice grid and media queries. [Gridbyexample.com](https://gridbyexample.com/) has a lot of other layouts you can try to copy to get mor familiar with grid. Look at an example and see if you can copy the layout in your own code.
 
