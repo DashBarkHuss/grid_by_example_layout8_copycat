@@ -14,4 +14,4 @@ For anyone who is interested in my workflow, here are my steps:
 
 See more of Rachel's example layouts here: [Examples](https://gridbyexample.com/examples/page-layout/)
 
-See the git repo for her site here: [Git Repo](https://github.com/rachelandrew/grid-by-example)
+See the git repo for gridbyexample site here: [Git Repo](https://github.com/rachelandrew/grid-by-example)
