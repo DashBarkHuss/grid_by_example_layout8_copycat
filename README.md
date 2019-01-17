@@ -8,7 +8,7 @@ For anyone who is interested in my workflow, here are my steps:
 **My Steps**
 1. I copied the [layout8](https://gridbyexample.com/examples/code/layout8.html) page and images manually but it's probably available on the git repo linked below. 
 2. Deleted the internal css, except for lines 8-18. These lines set up the page to work well as a responsive layout. These lines are often included in responsive layout projects. Though, I am not familiar with the line that sets the font percentage, it looks like it's setting the font to be responsive too.
-3. I kept the original page open on gridbyexample.com and made the browser window smaller than 460px wide to see what the smallest breakpoint looked like. I tried my best to copy the css without looking at the source code. Then I compared my code to the original up to the first breakpoint.
+3. I kept the original page open on gridbyexample.com and made the browser window smaller than 460px wide to see what the smallest breakpoint looked like. With my project open on another window, I tried my best to copy the css in my text editor without looking at the source code. Then I compared my code to the original up to the first breakpoint.
 4. I made the original page window wider than 460 pixels. I attempted to copy the code up to this breakpoint in a new media query. I compared my code with the original code. I repeated this process for 660px;
 5. I haven't done step five yet, but it would be to recreate the css from scratch without looking at the code in between each media query.
 
